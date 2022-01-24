@@ -1,0 +1,67 @@
+div{
+  padding-top: 10%;
+  background-color:#FFCCD2;
+  margin-bottom: 0;
+}
+h1{
+  margin-top: 0;
+  font-size: 400%;
+  font-family: Mochiy Pop P One;
+  color:#FF9292;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family:sans-serif;
+  color:#FEECE9;
+}
+.OT{
+  margin: 0;
+  border-radius: 0;
+  height: 40%;
+  width: 40%;
+}
+.bb{
+  margin:0;
+  border-radius: 0;
+  height:40%;
+  width:40%;
+}
+.ball{
+  height: 0;
+  width:0;
+  position:absolute;
+  left:70%
+}
+h2{
+  font-family: Mochiy Pop P One;
+  color:#FF9292;
+  font-size:250%;
+}
+.sticker{
+  height: 30%;
+  width:30%;
+}
+h3{
+  font-size: 200%;
+  color:#FFAFAF;
+  font-family:cursive;
+}
+h4{
+  font-size: 200%;
+  color: #FFAFAF
+}
+.middle-container{
+  padding: 0;
+}
+.top-container{
+  margin-bottom: 0;
+}
+p
+{
+  color:#FEECE9;
+  font-size: 150%;
+}
+.bottom-container{
+  margin-bottom: 0;
+}
